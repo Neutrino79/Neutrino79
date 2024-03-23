@@ -5,21 +5,19 @@
 </h1>
 
 <h3 align="center">
-    A passionate Backend developer..
+    A passionate Backend developer...
 </h3>
-
-<br/>
-
+<br>
 <div align="center">
  
  🔭 working on **File-Ninja**
  
  🌱 currently learning **Python,Android development**
 
- 💬  [want to connect ?](https://github.com/Neutrino79/Neutrino79/issues)**
+ 💬  **[want to connect ?](https://github.com/Neutrino79/Neutrino79/issues)**
 
  </div>
- 
+ <br>
 <div align="center"> 
   <a href="mailto:atharvhiremath.ah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -34,7 +32,7 @@
 <div align="center">
   <h2>✨ My Contributions ✨</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/prathameshkhade/prathameshkhade/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Neutrino79/Neutrino79/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
