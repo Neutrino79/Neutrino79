@@ -10,7 +10,7 @@
 <br>
 <div align="center">
  
- 🧑‍💻 Working with Zapuza texhnologies west bengal.
+ 🧑‍💻 Working with Zapuza technologies west bengal.
  <br>**As a junior python developer intern**
  
  🌱 currently learning **Python,Android development**
