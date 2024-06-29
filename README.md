@@ -10,7 +10,8 @@
 <br>
 <div align="center">
  
- 🔭 working on **File-Ninja**
+ 🧑‍💻 Working with Zapuza texhnologies west bengal.
+ <br>**As a junior python developer intern**
  
  🌱 currently learning **Python,Android development**
 
