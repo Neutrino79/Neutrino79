@@ -10,9 +10,6 @@
 <br>
 <div align="center">
  
- 🧑‍💻 Working with Zapuza technologies west bengal.
- <br>**As a junior python developer intern**
- 
  🌱 currently learning **Python,Android development**
 
  💬  **[want to connect ?](https://github.com/Neutrino79/Neutrino79/issues)**
